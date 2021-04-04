@@ -23,6 +23,4 @@ Before you publish your sketch, run `lein do clean, cljsbuild once optimized`. T
 
 ## License
 
-Copyright © 2020 Alexandre Almosni
-
 Distributed under the Unlicense (no conditions whatsoever).
