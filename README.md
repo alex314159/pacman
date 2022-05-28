@@ -11,6 +11,9 @@ Possible to-dos:
 * Game progression: more ghosts, walls or speed as you win levels.
 * etc.
 
+## Try it live
+http://quil.info/sketches/show/5892d4d1eef45f86388d98c932958adc6cbb8e5af0449e21199958897e5a66f9
+
 ## Usage
 
 Run `lein figwheel` in your terminal. Wait for a while until you see `Successfully compiled "resources/public/js/main.js"`. Open [localhost:3449](http://localhost:3449) in your browser.
